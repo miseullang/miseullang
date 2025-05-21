@@ -36,7 +36,6 @@
   <img src="https://img.shields.io/badge/styled components-EC407A?style=flat-square&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-26A69A?style=flat-square&logo=Vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-F06292?style=flat-square&logo=Sass&logoColor=white"/>
 
 
 
