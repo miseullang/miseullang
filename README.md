@@ -8,9 +8,6 @@
 <a href="https://github.com/miseullang/study-log"> 
   공부 기록
 </a>
-<a href="https://velog.io/@miseullang"> 
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"> 
-</a>
 
 ---
 
