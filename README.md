@@ -3,54 +3,133 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Otter.png" alt="Otter" width="70" height="70" />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Hamster.png" alt="Hamster" width="25" height="25" />
     
-  ### Hi there 👋 I'm miseullang 🦦
-
-<a href="https://github.com/miseullang/study-log"> 
-  공부 기록
-</a>
-
----
-
-
- <br>
+  ## 안녕하세요 👋 프론트엔드 개발자 권윤슬입니다 🦦
+<p align="left">
+<strong>“왜, 무엇과 비교해서, 어떤 것을 감소하고, 무엇을 달라지게 했는지”</strong> 고민하는 개발자 권윤슬입니다. <br/>
+이러한 질문이 쌓여야 비로소 문제를 제대로 정의할 수 있다고 믿기에, 요구사항을 재해석하고 문서화하는 과정을 중요하게 여깁니다.
+</p>
+<br/>
 
 <div align="center" >
-  
-
 <img src="https://github-readme-stats.vercel.app/api?username=miseullang&show_icons=true&theme=github_dark&hide_border=true&hide_title=false&hide=stars,contribs" width="45%" />
 
+### 🛠️ Stack
 
-
-    
-  ### ⚒ Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src='https://camo.githubusercontent.com/37158ad7424690a71bccc74683cb6413c62d76bdbd052a578ac2ac0cd4480ae2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5675652e6a732d2532333335343935652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5675652e6a73266c6f676f436f6c6f723d253233344643303844' />&nbsp
-</div>
+<img src='https://skillicons.dev/icons?i=html,css,javascript,ts,react,vue,next,git,figma,mui,emotion,tailwind,supabase,vercel&perline=7' alt="stack" />
 
 <br>
 
+### 📑 Tools
 
- ### ⚒ Tools
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Confluence-0052CC.svg?style=for-the-badge&logo=confluence&logoColor=white" />&nbsp
 </div>
 
 <br>
+
+<div align="left">
+<h2>💻 참여 프로젝트 </h2>
+<table>
+  <thead>
+    <tr>
+      <th>기간</th>
+      <th>프로젝트</th>
+      <th>주제</th>
+      <th>링크</th>
+      <th>배포</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2025/08/23 ~ 2025/08/24</td>
+      <td>🏆 부산, 드림</td>
+      <td> 부산 2030 청년 ↔ 5개 공사공단 매칭 및 AI 면접/정책 플랫폼</td>
+      <td><a href="https://github.com/Hi-Match">🔗 Git</a></td>
+      <td><a href="https://www.busan-dream.co.kr/">🔗 배포</a></td>
+    </tr>
+    <tr>
+      <td>2024.07.01 ~ 2024.11.07</td>
+      <td>🏆 이번역</td>
+      <td>전국 지하철 종합 웹 서비스</td>
+      <td><a href="https://github.com/None-Step">🔗 Git</a></td>
+      <td>배포 중단</td>
+    </tr>
+    <tr>
+      <td>2025/02/25 ~ </td>
+      <td>🏅🥈 RoomE</td>
+      <td>독서, 음악을 매개로 감정을 기록하는 3D 소셜 서비스</td>
+      <td><a href="https://github.com/R00ME/roome-fe">🔗 FO-Git</a></td>
+      <td><a href="https://github.com/R00ME/roome-admin-fe">🔗 BO-Git</a></td>
+    </tr>
+    <tr>
+      <td>2024/12/23 ~ </td>
+      <td>🏅 Capsy</td>
+      <td>지도 기반 타임캡슐 SNS</td>
+      <td><a href="https://github.com/Caapsy/Capsy">🔗 Git</a></td>
+      <td>배포 중단</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<div align="left">
+  <h2>🏆 수상 내역 </h2>
+
+  <table>
+  <thead>
+    <tr>
+      <th>날짜</th>
+      <th>대회명</th>
+      <th>수상내역</th>
+      <th>주최</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+      <td><code>2025/08/24</code></td>
+      <td>DX DIVE 2025</td>
+      <td><strong>대상(부산광역시장상)</strong></td>
+      <td>부산광역시</td>
+    </tr>
+    <tr>
+      <td><code>2024/12/06</code></td>
+      <td>공개 SW개발자대회</td>
+      <td><strong>SW협회장상(장려상)</strong></td>
+      <td>과학기술정보통신부</td>
+    </tr>
+    <tr>
+      <td><code>2025/03/12</code></td>
+      <td>프로그래머스 데브코스 파이널</td>
+      <td><strong>인기상, 우수상</strong></td>
+      <td>(주)그렙</td>
+    </tr>
+  </tbody>
+</table>
+
+</div><br>
+
+<div align="left">
+  <h2>🏫 교육 이수 내역</h2>
+  <ul>
+    <li><code>2024/10/14 ~ 2025/03/12</code> <strong>프로그래머스 프론트엔드 데브코스 2기</strong></li>
+  </ul>
+  </ul>
+
+<br/>
+
+  <h2>🫡 인턴 경력</h2>
+<ul>
+  <li><code>2025.05.07 ~ </code>&nbsp| SW 개발팀 - FE | <strong>(주) 제로웹</strong></li>
+  <li><strong>케어벨 관리자 대시보드 개발</strong></li>
+</ul>
+
+<br>
+
+</div>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
