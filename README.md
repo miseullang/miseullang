@@ -120,16 +120,17 @@
 </div><br>
 
 <div align="left">
-  <h2>🫡 경력 및 교육 이수</h2>
+  <h2>🫡 경력 및 교육 이수 내역</h2>
 <ul>
   <li><code>2025.05.07 ~ </code>&nbsp| SW 개발팀 - FE | <strong>(주) 제로웹</strong></li>
     <ul>
       <li><strong>케어벨 관리자 대시보드 개발</strong></li>
     </ul>
+    <br/>
     <li><code>2024/10/14 ~ 2025/03/12</code> <strong>프로그래머스 프론트엔드 데브코스 2기</strong></li>
 </ul>
 
-<br>
+<br/>
 
 </div>
 
