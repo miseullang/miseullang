@@ -15,7 +15,8 @@
 
 ### 🛠️ Stack
 
-<img src='https://skillicons.dev/icons?i=html,css,javascript,ts,react,vue,next,git,figma,mui,emotion,tailwind,supabase,vercel&perline=7' alt="stack" />
+// <img src='https://skillicons.dev/icons?i=html,css,javascript,ts,react,vue,next,git,figma,mui,emotion,tailwind,supabase,vercel&perline=7' alt="stack" />
+![miseullang/tech-stack@orbit](https://tech-stack.wontory.dev/api/orbit?text=miseullang&slugs=css3,html5,javascript,typescript,react,vuedotjs,nextdotjs,git,figma,tailwindcss,primevue,supabase,notion,jira,confluence,vercel)
 
 <br>
 
