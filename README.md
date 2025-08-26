@@ -137,7 +137,7 @@
 <br/>
 <br/>
 
-<div align="center" >
+<div align="left" >
 <img src="https://github-readme-stats.vercel.app/api?username=miseullang&show_icons=true&theme=github_dark&hide_border=true&hide_title=false&hide=stars,contribs" width="500" />
 </div>
 
