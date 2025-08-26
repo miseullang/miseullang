@@ -146,14 +146,14 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/miseullang"
-  width="240"
+  width="250"
   height="200"
 />
 </a>
 <a href="https://www.gitanimals.org/">
   <img
     src="https://render.gitanimals.org/guilds/714071317917582095/draw"
-    width="240"
+    width="250"
     height="200"
     alt="gitanimals"
   />
