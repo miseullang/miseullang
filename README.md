@@ -139,22 +139,20 @@
 </div>
 
 <div align="center" >
-<img src="https://github-readme-stats.vercel.app/api?username=miseullang&show_icons=true&theme=github_dark&hide_border=true&hide_title=false&hide=stars,contribs" width="45%" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=miseullang&show_icons=true&theme=github_dark&hide_border=true&hide_title=false&hide=stars,contribs" width="60%" />
 
-<div align="center">
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/miseullang"
-  width="300"
-  height="300"
+  width="240"
+  height="200"
 />
 </a>
 <a href="https://www.gitanimals.org/">
   <img
     src="https://render.gitanimals.org/guilds/714071317917582095/draw"
-    width="300"
-    height="300"
+    width="240"
+    height="200"
     alt="gitanimals"
   />
 </a>
