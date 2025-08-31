@@ -51,7 +51,7 @@
       <td><a href="https://www.busan-dream.co.kr/">🔗 배포</a></td>
     </tr>
     <tr>
-      <td>2024.07.01 ~ 2024.11.07</td>
+      <td>2024/07/01 ~ 2024/11/07</td>
       <td>🏆 이번역</td>
       <td>전국 지하철 종합 웹 서비스</td>
       <td><a href="https://github.com/None-Step">🔗 Git</a></td>
