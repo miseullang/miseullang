@@ -65,14 +65,14 @@
       <td><a href="https://github.com/R00ME/roome-admin-fe">🔗 BO-Git</a></td>
     </tr>
     <tr>
-      <td>2024/12/23 ~ </td>
+      <td>2024/12/06 ~ 2024/12/23</td>
       <td>🏅 Capsy</td>
       <td>지도 기반 타임캡슐 SNS</td>
       <td><a href="https://github.com/Caapsy/Capsy">🔗 Git</a></td>
       <td>배포 중단</td>
     </tr>
     <tr>
-      <td>2024/12/06 ~ 2024/12/23</td>
+      <td>2024/01/15 ~ 2024/02/03</td>
       <td>풀고</td>
       <td>supabase를 활용한 실시간 문제 풀이/아카이빙 서비스</td>
       <td><a href="https://github.com/devcourse-Teemo/devcourse-Teemo">🔗 Git</a></td>
