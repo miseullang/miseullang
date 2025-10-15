@@ -62,7 +62,7 @@
       <td>🏅🥈 RoomE</td>
       <td>독서, 음악을 매개로 감정을 기록하는 3D 소셜 서비스</td>
       <td><a href="https://github.com/R00ME/roome-fe">🔗 FO-Git</a></td>
-      <td><a href="https://github.com/R00ME/roome-admin-fe">🔗 BO-Git</a></td>
+      <td><a href="https://www.roome.io.kr/onboarding">🔗 배포</a></td>
     </tr>
     <tr>
       <td>2024/12/06 ~ 2024/12/23</td>
