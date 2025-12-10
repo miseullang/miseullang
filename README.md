@@ -47,7 +47,7 @@
       <td>2025/08/23 ~ 2025/08/24</td>
       <td>🏆 부산, 드림</td>
       <td> 부산 2030 청년 ↔ 5개 공사공단 매칭 및 AI 면접/정책 플랫폼</td>
-      <td><a href="https://github.com/Hi-Match">🔗 Git</a></td>
+      <td><a href="https://github.com/Busan-Dream/Busan-Dream-FE">🔗 Git</a></td>
       <td><a href="https://www.busan-dream.co.kr/">🔗 배포</a></td>
     </tr>
     <tr>
