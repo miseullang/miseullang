@@ -6,18 +6,16 @@
   ## 안녕하세요 👋 프론트엔드 개발자 권윤슬입니다 🦦
   
 <p align="center">
-<strong>“왜, 무엇과 비교해서, 어떤 것을 감수하고, 무엇을 달라지게 했는지”</strong> 고민하는 개발자 권윤슬입니다. <br/>
+<strong>“왜, 무엇과 비교해서, 무엇을 달라지게 했는지”</strong> 고민하는 개발자 권윤슬입니다. <br/>
 이러한 질문이 쌓여야 비로소 문제를 제대로 정의할 수 있다고 믿기에, 요구사항을 재해석하고 문서화하는 과정을 중요하게 여깁니다.
+</p>
+<p align="center">
+  <a href="https://seulslug.vercel.app/" target="_blank">
+    …“〆(・ε・*) 블로그 이사중
+  </a>
 </p>
 <br/>
 
-<!-- ### 🛠️ Stack -->
-
-<!-- <img src='https://skillicons.dev/icons?i=html,css,javascript,ts,react,vue,next,git,figma,mui,emotion,tailwind,supabase,vercel&perline=7' alt="stack" /> -->
-
-![miseullang/tech-stack@orbit](https://tech-stack.wontory.dev/api/orbit?text=miseullang&slugs=css3,html5,javascript,typescript,react,vuedotjs,nextdotjs,git,figma,tailwindcss,primevue,supabase,notion,jira,confluence,vercel)
-
-<br>
 <!-- 
 ### 📑 Tools
 
@@ -120,11 +118,13 @@
 </div><br>
 
 <div align="left">
-  <h2>🫡 경력 및 교육 이수 내역</h2>
+  <h2>🫡 경력 및 교육 이수</h2>
 <ul>
-  <li><code>2025.05.07 ~ </code>&nbsp| SW 개발팀 - FE | <strong>(주) 제로웹</strong></li>
+  <li><code>2025.05.07 ~ </code>&nbsp| SW 개발팀 / FE 개발자 | <strong>(주) 제로웹</strong></li>
     <ul>
-      <li><strong>케어벨 관리자 대시보드 개발</strong></li>
+      <li><strong>Carebell 관리자 대시보드 개발</strong></li>
+      <li><strong>Carebell 앱 유지보수</strong></li>
+      <li><strong>사내 패키지 라이브러리 유지보수</strong></li>
     </ul>
     <br/>
     <li><code>2024/10/14 ~ 2025/03/12</code> <strong>프로그래머스 프론트엔드 데브코스 2기</strong></li>
